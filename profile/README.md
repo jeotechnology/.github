@@ -25,13 +25,6 @@
 
 ## Overview
 
-| Area | Details |
-| --- | --- |
-| Owner | Joshua Edward Olds trading as JEO Technology |
-| Repo | `jeotechnology/.github` |
-| Status | STABLE |
-| Role | Organization Profile |
-
 JEO Technology is an Australian technology consultancy focusing on IT, AI, and Cybersecurity.
 
 JEO Technology helps teams design, secure, and optimise the systems they rely on.
@@ -66,18 +59,8 @@ Our public repositories provide tools, standards, and references for the JEO eco
 
 ## Connect
 
-| Channel | Detail |
-| --- | --- |
-| Website | [jeotechnology.com.au](https://jeotechnology.com.au) |
-| Location | Brisbane, Australia |
-| Principal | Joshua Edward Olds |
-
 <p align="right"><a href="#jeo-technology">↑ back to top</a></p>
 
-## License
+## Acknowledgements
 
-Copyright (c) 2026 Joshua Edward Olds trading as JEO Technology. All rights reserved.
-
-This repository represents the JEO Technology organization. No part of these organization assets, standards, or documentation may be reproduced, distributed, disclosed, or used in any form or by any means without the prior written permission of the copyright owner.
-
-See [LICENSE](LICENSE) for full details.
+Copyright (c) 2026 Joshua Olds trading as JEO Technology. All rights reserved.
