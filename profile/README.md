@@ -1,4 +1,3 @@
-# JEO Technology
 
 <!-- JEO_HEADER_BANNER:START -->
 
