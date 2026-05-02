@@ -1,0 +1,65 @@
+{
+  "repo": "jeotechnology/.github",
+  "logo": {
+    "light": "assets/logo-main.png",
+    "dark": "assets/logo-main-dark.png",
+    "alt": "JEO Technology",
+    "height": 72
+  },
+  "banner": {
+    "enabled": true,
+    "light": "assets/header-banner-light.svg",
+    "dark": "assets/header-banner-dark.svg",
+    "alt": "JEO Technology - technology for business profile banner",
+    "title": "JEO Technology",
+    "eyebrow": "Technology for Business. Not Just IT.",
+    "width": 1200,
+    "height": 340,
+    "radius": 36,
+    "background": {
+      "image": "/home/joshuaolds/dev/commons/github/shared/banners/backgrounds/human/blue.png",
+      "opacity": 0.24,
+      "fit": "xMidYMid slice"
+    },
+    "logo": {
+      "enabled": true,
+      "position": "right",
+      "width": 210,
+      "height": 124,
+      "opacity": 0.96
+    }
+  },
+  "badges": {
+    "identity": [
+      {
+        "href": "https://jeotechnology.com.au",
+        "src": "https://img.shields.io/badge/Australia-Technology%20Consultancy-7C3AED?style=for-the-badge",
+        "alt": "Australia: Technology Consultancy"
+      },
+      {
+        "href": "https://jeotechnology.com.au",
+        "src": "https://img.shields.io/badge/focus-IT%20AI%20Cybersecurity-0F766E?style=for-the-badge",
+        "alt": "Focus: IT AI Cybersecurity"
+      },
+      {
+        "href": "https://jeotechnology.com.au",
+        "src": "https://img.shields.io/badge/operator-Josh%20Olds-334155?style=for-the-badge",
+        "alt": "Operator: Josh Olds"
+      }
+    ],
+    "metrics": []
+  },
+  "tagline": "Technology strategy, secure platforms, AI enablement, and developer systems for organisations that need practical engineering leadership.",
+  "narrative": [
+    "JEO Technology helps teams design, secure, and optimise the systems they rely on.",
+    "The work is grounded in clear boundaries, durable documentation, and repeatable delivery patterns."
+  ],
+  "topics": [
+    "cloud-platforms",
+    "cybersecurity",
+    "ai-enablement",
+    "developer-experience",
+    "governance",
+    "documentation"
+  ]
+}
