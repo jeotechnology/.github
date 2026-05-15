@@ -15,7 +15,7 @@
 Report security concerns privately:
 
 ```text
-joshua.olds94@gmail.com
+security@jeotechnology.com.au
 ```
 
 Include as much of the following as is safe to share:
